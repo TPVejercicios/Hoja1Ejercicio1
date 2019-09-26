@@ -1,0 +1,14 @@
+﻿  Main.cpp
+g:\2do\tpv1\ejercicios\hoja01\ejercicio1\project1\project1\main.cpp(33): warning C4018: '<': no coinciden signed/unsigned
+g:\2do\tpv1\ejercicios\hoja01\ejercicio1\project1\project1\main.cpp(94): warning C4018: '<': no coinciden signed/unsigned
+g:\2do\tpv1\ejercicios\hoja01\ejercicio1\project1\project1\main.cpp(96): warning C4018: '<': no coinciden signed/unsigned
+g:\2do\tpv1\ejercicios\hoja01\ejercicio1\project1\project1\main.cpp(119): warning C4018: '<': no coinciden signed/unsigned
+g:\2do\tpv1\ejercicios\hoja01\ejercicio1\project1\project1\main.cpp(121): warning C4018: '<': no coinciden signed/unsigned
+g:\2do\tpv1\ejercicios\hoja01\ejercicio1\project1\project1\main.cpp(169): warning C4018: '<': no coinciden signed/unsigned
+g:\2do\tpv1\ejercicios\hoja01\ejercicio1\project1\project1\main.cpp(188): warning C4018: '<': no coinciden signed/unsigned
+g:\2do\tpv1\ejercicios\hoja01\ejercicio1\project1\project1\main.cpp(204): warning C4018: '<': no coinciden signed/unsigned
+g:\2do\tpv1\ejercicios\hoja01\ejercicio1\project1\project1\main.cpp(240): warning C4018: '<': no coinciden signed/unsigned
+g:\2do\tpv1\ejercicios\hoja01\ejercicio1\project1\project1\main.cpp(233): warning C4101: 'choice': variable local sin referencia
+g:\2do\tpv1\ejercicios\hoja01\ejercicio1\project1\project1\main.cpp(226): warning C4101: 'tamaño': variable local sin referencia
+g:\2do\tpv1\ejercicios\hoja01\ejercicio1\project1\project1\main.cpp(226): warning C4101: 'eleccion': variable local sin referencia
+  Project1.vcxproj -> G:\2do\TPV1\Ejercicios\Hoja01\Ejercicio1\Project1\Debug\Project1.exe
